@@ -13,3 +13,8 @@
 - HW2 Classification
   - [kaggle](https://www.kaggle.com/c/ml2021spring-hw2)
   - [code跟思路](https://github.com/1am9trash/HUNG_YI_LEE_ML_2021/blob/main/hw/hw2/hw2_code.ipynb)
+
+- HW3 CNN and Semi-Supervised Learning
+  - [kaggle](https://www.kaggle.com/c/ml2021spring-hw3)
+  - [code跟思路](https://github.com/1am9trash/HUNG_YI_LEE_ML_2021/blob/main/hw/hw3/hw3_code.ipynb)
+  - [checkpoint](https://github.com/1am9trash/HUNG_YI_LEE_ML_2021/blob/main/hw/hw3/checkpoint): 保留model紀錄，方便做後續training
